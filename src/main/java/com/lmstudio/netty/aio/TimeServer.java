@@ -1,4 +1,4 @@
-package com.netty.aio;
+package com.lmstudio.netty.aio;
 
 public class TimeServer {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.netty.aio;
+package com.lmstudio.netty.aio;
 
 /**
  * 可jps -l 查看到进程ID；再jstack -l processID 查看线程快照

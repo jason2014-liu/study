@@ -1,4 +1,4 @@
-package com.netty.aio;
+package com.lmstudio.netty.aio;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;

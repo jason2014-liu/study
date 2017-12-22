@@ -1,4 +1,4 @@
-package com.netty.bio;
+package com.lmstudio.netty.bio;
 
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.ExecutorService;

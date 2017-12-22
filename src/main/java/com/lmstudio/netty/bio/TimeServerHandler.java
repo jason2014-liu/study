@@ -1,4 +1,4 @@
-package com.netty.bio;
+package com.lmstudio.netty.bio;
 
 import java.io.BufferedReader;
 import java.io.IOException;

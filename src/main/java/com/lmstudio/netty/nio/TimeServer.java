@@ -1,4 +1,4 @@
-package com.netty.nio;
+package com.lmstudio.netty.nio;
 
 public class TimeServer {
     //psvm
